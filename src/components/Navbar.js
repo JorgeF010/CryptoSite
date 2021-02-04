@@ -13,7 +13,7 @@ export const Navbar = () => {
     return (
       <Nav>
         <Logo href="/">
-            ECashNews
+            CryptoNews
         </Logo>
         <Hamburger onClick={() => setIsOpen(!isOpen)}>
           <span />
